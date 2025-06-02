@@ -29,6 +29,8 @@ DB_PORT=5432
 
 ```bash
 docker-compose up --build
+
+# run on localhost:8000/
 ```
 
 ## Project Goals
