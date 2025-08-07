@@ -5,7 +5,7 @@
 1. **Clone the repo to your machine:**
 
 ```bash
-git clone https://github.com/johniehuge/excel-import.git
+git clone https://github.com/MikhailKlidzhan/excel-import.git
 cd excel-import
 ```
 
